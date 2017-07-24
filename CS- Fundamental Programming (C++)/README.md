@@ -1,3 +1,5 @@
+# Course Description
+This was the Intro class for Computer Science majors. The class coded all in C++.
 
 # Program List and Description
 
