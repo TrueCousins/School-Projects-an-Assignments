@@ -2,7 +2,7 @@
 
 Simple output and calculation code for profit and sales
 
-
+# Code
 ````C++
 #include <iostream>
 #include <iomanip>
