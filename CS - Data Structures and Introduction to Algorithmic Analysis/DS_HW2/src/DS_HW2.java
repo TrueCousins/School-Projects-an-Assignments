@@ -1,7 +1,4 @@
 /*
-Colleen Cousins
-CS 3345.002
-Due March 13, 2016
 This program is used to test ArrayofLists.java. The program creates two lists, 
 one that holds Integers and the other will hold Floats. It will then read in 
 input files as Strings and later convert the numbers into Integer or Floats 
