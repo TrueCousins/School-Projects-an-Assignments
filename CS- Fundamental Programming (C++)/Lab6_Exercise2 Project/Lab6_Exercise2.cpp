@@ -1,7 +1,6 @@
 // Lab 6 Exercise 2
 // Calculate investment amount
-// 
-// Program by:			Colleen Cousins
+
 
 #include <iostream>
 #include <iomanip>
