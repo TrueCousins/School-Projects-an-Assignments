@@ -8,10 +8,7 @@ and algorithmic analysis. Includes comprehensive programming projects. Programmi
 
 | Tables        | Are           | 
 | ------------- |:-------------| 
-| Assignment4      |This program asks the user to enter a file name and displays the occurence of
-each letter in the file. | 
+| Assignment4      |This program asks the user to enter a file name and displays the occurence of each letter in the file. | 
 | ExtraCredit1      | A program that has a recursive method that returns the number of the uppercase letters in a string.    |  
-| ExtraCredit2 | Write a program that reads words from a text file and displays all the words 
-(duplicates allowed) in ascending alphabetical order. The text file is passed 
-as a command-line argument.      | 
+| ExtraCredit2 | Write a program that reads words from a text file and displays all the words (duplicates allowed) in ascending alphabetical order. The text file is passed as a command-line argument.      | 
 
