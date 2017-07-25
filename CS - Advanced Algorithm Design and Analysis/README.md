@@ -5,7 +5,7 @@ dynamic programming, and divide-and-conquer. Issues from computational complexit
 
 | Program List       | Description |
 | ------------- |:-------------|
-| MergeVSInsertionSort      | Implemented in Java which algorithm was faster |
+| MergeVSInsertionSort      | Implemented in Java to see which algorithm was faster |
 | Quicksort      | Implemented in Java to see if Random or a sorted list was faster      | 
 | Randomized_QuickSort | Implemented in Java to see if Random or a sorted list was faster         |    
 | priorityQueue10_1 | Implemented in Java to see the process of a priority queue      |  
