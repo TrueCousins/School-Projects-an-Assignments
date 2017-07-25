@@ -6,7 +6,7 @@ and algorithmic analysis. Includes comprehensive programming projects. Programmi
 # Program List and Description
 
 
-| Tables        | Are           | 
+| Program    | Description          | 
 | ------------- |:-------------| 
 | Assignment4      |This program asks the user to enter a file name and displays the occurence of each letter in the file. | 
 | ExtraCredit1      | A program that has a recursive method that returns the number of the uppercase letters in a string.    |  
