@@ -6,6 +6,6 @@ assurance and software maintenance.
 # Program List and Description 
 
 | Program Name                         | Description   |       
-| ------------------------------------ |:--------------------:| 
+| ------------------------------------ |:--------------------| 
 | CE3354_MasterMind-master             | A group project done in Java. A program that allows a user to play three different games, such as Tic-Tac-Toe, MasterMind, and Hangman.| 
 | TicTacToe                             | My part of the code for the group project. A program that allows you to play Tic-Tac-Toe.     |   
