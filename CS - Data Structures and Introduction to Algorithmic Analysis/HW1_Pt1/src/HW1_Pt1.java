@@ -1,7 +1,4 @@
 /*
-Colleen Cousins
-CS 3345.002
-Due February 14, 2016
 This program asks the user to enter an integer. It will then calculate the 
 function c(n) and d(n). The function c(n) is a recursive function.
 c(n) is the summation of c(i-1)*c(n-i), i = 0 to n, and d(n0 = (2n)!/n!(n+1)!. 
