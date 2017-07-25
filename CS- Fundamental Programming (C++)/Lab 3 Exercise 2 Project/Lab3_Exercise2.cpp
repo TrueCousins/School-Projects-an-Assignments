@@ -1,7 +1,5 @@
 // Lab 3 Exercise 2
 // Calculate MPH (Miles Per Hour).
-//
-// Program by:    Colleen Cousins
 
 #include <iostream>
 #include <iomanip>                  // needed to use setprecision, fixed, and setw
