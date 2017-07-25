@@ -1,7 +1,6 @@
 // Lab 5 Exercise 2
 // Convert to Roman numerals
-//
-// Program by:		Colleen Cousins
+
 
 #include <iostream>
 using namespace std; 
