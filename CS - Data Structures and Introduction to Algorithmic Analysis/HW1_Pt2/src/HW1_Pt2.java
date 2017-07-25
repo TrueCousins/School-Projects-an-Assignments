@@ -1,7 +1,5 @@
 /*
-Colleen Cousins
-CS 3345.002
-Due February 14, 2016
+
 This progam uses the examples of a drawing box which is a generic class. A 
 drawing box of integers and strings of names is created. The program will 
 display if the box is empty. This program then asks the user to enter the file
