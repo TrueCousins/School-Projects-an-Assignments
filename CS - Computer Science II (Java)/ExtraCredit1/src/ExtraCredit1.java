@@ -1,7 +1,4 @@
 /*
-Colleen Cousins
-CS 2336.001
-Due October 10, 2015
 Write a recursive method that returns the number of the uppercase letters in a
 string.
 */
