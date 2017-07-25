@@ -1,7 +1,7 @@
 // Lab 3 Exercise 1
 // Input Using cin >>
 // CS 1136 Laboratory Lesson #3
-// Program by:       Colleen Cousins
+
 
 #include <iostream>
 #include <string>
