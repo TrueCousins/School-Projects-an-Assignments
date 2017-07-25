@@ -1,8 +1,4 @@
 /*
-Colleen Cousins
-CS 3345.002
-Due May 1, 2016
-
 Description:
 This is the file for testing ModifiedBinarySearchTree.
 When running program, input the Integer files first. Then input the Float file.
