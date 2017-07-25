@@ -1,7 +1,5 @@
 // Lab 6 Exercise 1
 // Calculate the product
-//
-// Program by:			Colleen Cousins
 
 #include <iostream> 
 using namespace std; 
