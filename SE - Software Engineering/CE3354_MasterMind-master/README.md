@@ -16,9 +16,9 @@ A Java program that allows a user to choose between three different games to pla
     ..*Tic-Tac-Toe
     ..*Hangman
 Each game is console based and does not have any graphics integrated into them. Our professor did not want people in the class to focus on graphics, but more on the lifecycle of creating a project. 
-#H2 MasterMind
-#H2 Tic-Tac-Toe
+##H2 MasterMind
+##H2 Tic-Tac-Toe
 A user is able to play against an AI player.
 
-#H3 Hangman
+##H2 Hangman
 The program randomly picks out a word from a dictionary for the user to guess the letters and word given 
