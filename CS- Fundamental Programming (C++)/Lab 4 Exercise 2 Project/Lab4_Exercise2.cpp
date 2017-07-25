@@ -1,8 +1,6 @@
 // Lab 4 Exercise 2
 // History grading project
 
-// Program by:			Colleen Cousins
-
 #include <iostream> 
 #include <iomanip> 
 
