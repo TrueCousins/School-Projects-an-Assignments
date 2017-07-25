@@ -1,5 +1,5 @@
 // CS 11336 Lab 2 Exercise 2
-// Program by: Colleen Cousins
+
 
 #include <iostream>
 #include <iomanip>
