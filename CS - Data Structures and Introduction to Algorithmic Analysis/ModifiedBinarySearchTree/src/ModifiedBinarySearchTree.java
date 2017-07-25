@@ -1,7 +1,4 @@
 /*
-Colleen Cousins
-CS 3345.002
-Due May 1, 2016
 This program is a generic modified binary search tree. Each method is wriiten
 in nonrecurisveley. 
 Methods:
