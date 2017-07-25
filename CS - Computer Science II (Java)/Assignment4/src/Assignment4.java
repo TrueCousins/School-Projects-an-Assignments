@@ -1,7 +1,5 @@
 /*
-Colleen Cousins
-CS 2336.001
-Due October 10, 2015
+Description
 This program asks the user to enter a file name and displays the occurence of
 each letter in the file.
 */
