@@ -1,7 +1,4 @@
 /*
-Colleen Cousins
-CS 2336.001
-Due Nov. 17, 2015
 Write a program that reads words from a text file and displays all the words 
 (duplicates allowed) in ascending alphabetical order. The text file is passed 
 as a command-line argument.
