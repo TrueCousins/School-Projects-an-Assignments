@@ -1,7 +1,5 @@
 // Lab 5 Exercise 1
 // Financial aid program 
-//
-// Program by:		Colleen Cousins
 
 #include <iostream> 
 using namespace std; 
