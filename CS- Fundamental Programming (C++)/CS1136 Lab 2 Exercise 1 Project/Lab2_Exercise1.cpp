@@ -1,5 +1,5 @@
 // CS 1136 Lab 2 Exercise 1
-// Program by: Colleen Cousins
+
 
 #include <iostream>
 using namespace std;
