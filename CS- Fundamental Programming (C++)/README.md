@@ -5,7 +5,7 @@ This was the Intro class for Computer Science majors. The class coded all in C++
 
 
 | Program Name                         | Description   |       
-| ------------------------------------ |:--------------------:| 
+| ------------------------------------ |:--------------------| 
 | CS1136 Lab 2 Exercise 1 Project      | A simple ouput code | 
 | CS1136 Lab 2 Exercise 2 Project      | Simple output and calculation code for profit and sales      |   
 | Lab 3 Exercise 1 Projecet            | Inputting different data types    |    
