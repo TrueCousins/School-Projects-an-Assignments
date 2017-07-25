@@ -1,7 +1,5 @@
 /*
-Colleen Cousins
-CS 3345.002
-Due March 13, 2016
+
 This program is a new data structure. The class ArrayofLists is an array of 
 linked lists that stores AnyType into it.The list is inialized at 20 for testing
 in main. There are 11 methods the data structure is able to use. 
