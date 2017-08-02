@@ -1,0 +1,41 @@
+			YOUR REPORT
+Q:4 A ________ of a base class expects to be overridden in a derived class.
+
+Right Answer		Explanation
+C				This declaration tells the compiller to expect to be redefined in a derived class.
+
+You chose C
+Your Answer was correct.
+
+Q:12 Appending a node means adding it to the end of a list. ________ a node means putting a new node in the list, but not necessarily at the end.
+
+Right Answer		Explanation
+A				B and C are not terms for nodes. D is combinining two existing data together.
+
+You chose A
+Your Answer was correct.
+
+Q:14 While traversing a list, a node pointer knows when it has reached the end of a list when:
+
+Right Answer		Explanation
+C				At the end of each, linked list, the last node will be pointing to NULL.
+
+You chose D
+Your Answer was incorrect.
+
+Q:7 This type of member variable may be accessed before any objects of the class have been created.
+
+Right Answer		Explanation
+B				Can be called before any instances of the class are created.
+
+You chose D
+Your Answer was incorrect.
+
+Q:5 Assume that Car is a class name, and that the Car class has a member function named accelerate. A variable Car *myCar is defined.  Which of the following is a valid call to the accelerate member function?
+
+Right Answer		Explanation
+D				myCar is a pointer to a class object, therefore needs the ->.
+
+You chose A
+Your Answer was incorrect.
+

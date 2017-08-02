@@ -1,0 +1,17 @@
+Question 1:		A	Cannot have the same number of parameters for constructors.
+Question 2:		C	Protected is like private, but may be accessed by functions in a derived class.
+Question 3:		D	A single copy of a static member is shared by all instances of the class.
+Question 4:		C	This declaration tells the compiller to expect to be redefined in a derived class.
+Question 5:		D	myCar is a pointer to a class object, therefore needs the ->.
+Question 6:		B	A copy constructor allows you to initialize an object with another object data.
+Question 7:		B	Can be called before any instances of the class are created.
+Question 8:		B	The derived class is declared first, then the base class is defined.
+Question 9:		A	The default access specification will always be private.
+Question 10:	D	It's called both the derived/child class because it comes from the parent/base class.
+Question 11:	B	A, C, and D have nothing to do with defining a body of a member function in a class.
+Question 12:	A	B and C are not terms for nodes. D is combinining two existing data together.
+Question 13:	D	ADT stands for Abstract Data Type.
+Question 14:	C	At the end of each, linked list, the last node will be pointing to NULL.
+Question 15:	A	This is also known as an empty list, because there is no data in it yet.
+Question 16:	A	Appending means adding it to the end of the list.
+Question 17:	C	When done, the deconstructor can remove the dynamically allocated memory.

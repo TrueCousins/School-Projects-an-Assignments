@@ -1,0 +1,85 @@
+A class may have this many default(empty) constructor(s).
+only one				
+more than one				
+any number of
+a maximum of two
+Protected members of a base class are like ________, but they may be accessed by derived classes.
+static members			
+constructor functions		
+private members
+public members		
+If a member variable is declared ________, all objects of that class have access to that variable.
+default					
+dynamic					
+inline
+static
+A ________ of a base class expects to be overridden in a derived class.
+constructor function			
+destructor function			
+virtual function
+static function	
+Assume that Car is a class name, and that the Car class has a member function named accelerate. A variable Car *myCar is defined.  Which of the following is a valid call to the accelerate member function?
+myCar.accelerate( ); 			
+myCar::accelerate( );
+myCar:accelerate( ); 			
+myCar->accelerate( );
+This is a special function that is called whenever a new object is created and initialized with another object's data.
+static function				
+copy constructor				
+destructor 
+assignment function			
+This type of member variable may be accessed before any objects of the class have been created.
+inline					
+static					
+public
+private	
+In the following statement class Car: protected Vehicle which is the derived class?
+Vehicle					
+Car						
+protected
+None of these
+If you do not declare an access specification, the default for members of a class is:
+private					
+inline					
+global
+public	
+In an inheritance situation, the new class that you create from an existing class is known as the ________.
+child class				
+inheritee					
+derived class
+A and C
+When the body of a member function is defined inside a class declaration, it is said to be:
+globally				
+inline				
+static
+conditionally		
+Appending a node means adding it to the end of a list. ________ a node means putting a new node in the list, but not necessarily at the end.
+Inserting				
+Clamping				
+Popping
+Concatenating				
+ADT stands for:
+Algorithm Driven Template				
+Automatic Data Type
+Algorithm Dependent Template			
+Abstract Data Type
+While traversing a list, a node pointer knows when it has reached the end of a list when:
+it finds itself back at the beginning of the list
+it encounters a sentinel, usually 9999
+it encounters the newline character
+it encounters NULL
+If the head pointer points to NULL, this indicates:
+there are no nodes in the list
+the list has been previously created and then destroyed
+the list needs to be destroyed
+the list is full and cannot accept any new nodes
+To append a node to a list means to ________.
+add a node to the end of the list
+delete a node from the beginning of the list
+delete a node from the end of the list
+add a node to the beginning of the list
+A linked list class must take care of removing the dynamically allocated nodes. This is done by ________.
+the constructor function
+overloading the memory persistence operator
+the destructor function
+overriding the removal function
