@@ -15,7 +15,7 @@ Langauge: C++
 + Randomly choose questions
 + Input Validation
 
-#Instruction
+# Instruction
 1) Compile
 2) Enter the letter on the menu in order. If not, input validation makes sure that the user enters each section in order
 3) Enter 'a' and enter the length of the exam you want
