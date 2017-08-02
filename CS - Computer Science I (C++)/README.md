@@ -8,4 +8,4 @@ searching and sorting techniques, and an introduction to software engineering. P
 | ------------- |:-------------|
 | HW 1      | A C++ review |
 | HW3      | A grocery store checkout system    | 
-| PROJECT_EXAM_GENERATOR |    |    
+| PROJECT_EXAM_GENERATOR |  An Exam generator to review for Final Exam  |    
