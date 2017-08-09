@@ -1,5 +1,5 @@
 # Description
-These are some projects and assignments I have done at UTD. Below are some projects that I have done. 
+These are some projects and assignments I have done at UTD. Below are some projects that I have done. Follow the file path to find the code for each program.
 
 # Notable Projects
 
